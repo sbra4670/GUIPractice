@@ -1,6 +1,9 @@
 package practice.view;
 
 import practice.controller.PracticeController;
+
+import java.awt.Color;
+
 import javax.swing.JFrame;
 
 public class GUIFrame extends JFrame
